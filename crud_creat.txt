@@ -1,3 +1,4 @@
+#Criação da tabela no SQL. A tabela deve ter o nome 'crud'
 CREATE TABLE Cliente
 (
 	nome VARCHAR (100) NOT NULL,
